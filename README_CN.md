@@ -111,7 +111,13 @@ Linkis 基于微服务架构开发，其服务可以分为3类:计算治理服�
 您也可以扫描下面的二维码，加入我们的微信/QQ群，以获得更快速的响应。
 ![introduction05](https://user-images.githubusercontent.com/7869972/148767386-0663f833-547d-4c30-8876-081bb966ffb8.png)
 
-Meetup 视频 [Bilibili](https://space.bilibili.com/598542776?from=search&seid=14344213924133040656).
+
+
+# 社区 Meeup 回顾视频 
+
+第 01期  Linkis 1.0.3 新版本发布  [Bilibili]https://www.bilibili.com/video/BV1La411h7Pf?spm_id_from=333.999.0.0).
+ 
+第 02期  四大组件介绍 [Bilibili](https://www.bilibili.com/video/BV16q4y1a7P1?spm_id_from=333.999.0.0).
 
 # 谁在使用Linkis
 
