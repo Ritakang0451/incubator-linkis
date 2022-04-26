@@ -115,7 +115,7 @@ Linkis 基于微服务架构开发，其服务可以分为3类:计算治理服�
 
 # 社区 Meeup 回顾视频 
 
-第 01期  Linkis 1.0.3 新版本发布  [Bilibili]https://www.bilibili.com/video/BV1La411h7Pf?spm_id_from=333.999.0.0).
+第 01期  Linkis 1.0.3 新版本发布  [Bilibili](https://www.bilibili.com/video/BV1La411h7Pf?spm_id_from=333.999.0.0).
  
 第 02期  四大组件介绍 [Bilibili](https://www.bilibili.com/video/BV16q4y1a7P1?spm_id_from=333.999.0.0).
 
